@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/<Tools>-<Jira>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Tools>-<Slack>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-My name is Sikander Shamsi and I am a Software Developer/Scrum Master. I am Currently working as a Senior manager technology at Insights Driven Research
+My name is Sikander Shamsi and I am a Software Developer/Scrum Master. I am Currently working as a Project Manager at Innroad
 
 You can find me  on [![LinkedIn][2.2]][2].
 
