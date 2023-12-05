@@ -17,7 +17,7 @@ You can find me  on [![LinkedIn][2.2]][2].
 <!-- Icons -->
 
 
-[2.2]: https://drive.google.com/file/d/1VFwdLdAKWQha7KSIgfdunxhXjfjSVrAU/view?usp=sharing
+[2.2]: https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bs38xZ0mvS0yFbks8JlPZuA%3D%3D
 
 <!-- Links to your social media accounts -->
 
