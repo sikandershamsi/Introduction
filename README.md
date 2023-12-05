@@ -22,4 +22,4 @@ You can find me  on [![LinkedIn][2.2]][2].
 <!-- Links to your social media accounts -->
 
 
-[2]: (https://www.linkedin.com/in/sikandershamsi/)]
+[2]: https://www.linkedin.com/in/sikandershamsi/
